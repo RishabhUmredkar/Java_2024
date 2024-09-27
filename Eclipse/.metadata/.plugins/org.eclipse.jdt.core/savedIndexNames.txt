@@ -1,0 +1,3 @@
+INDEX VERSION 1.130+E:\QSpider Coding\Java\Eclipse\.metadata\.plugins\org.eclipse.jdt.core
+3416853083.index
+2380175872.index

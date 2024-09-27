@@ -1,0 +1,64 @@
+package Encapsulation;
+
+public class Account {
+	private String name;
+	private String bank;
+	private long accno;
+	private int pin;
+	private double balance;
+	private String ifsc;
+	private String type;
+	private String branch;
+	
+	public Account()
+	{
+		
+	}
+	public Account(String name, String bank, long accno, int pin, double balance, String ifsc, String type, String branch)
+	{
+		this.name = name;
+		this.bank = bank;
+		this.accno = accno;
+		this.pin = pin;
+		this.balance = balance;
+		this.ifsc = ifsc;
+		this.type = type;
+		this.branch = branch;
+	}
+	
+	public String getName()
+	{
+		return name;
+	}
+	
+	public String getBank()
+	{
+		return bank;
+	}
+	public long getAccno()
+	{
+		return accno;
+	}
+	public void setPin(long accno, int oldPin, int newPin)
+	{
+		if(this.accno == accno && pin == oldPin)
+		{
+			pin = newPin;
+			System.err.println("Pin is updated.....");
+		}
+		else{
+			System.err.println("Invalid Account NO. OR PIN");
+		}
+	}
+	
+	public double getBalance(long accno, int pin)
+	{
+		if(this.accno == accno && this.pin == pin)
+		{
+		}
+		return pin;
+	
+	}
+	
+
+}
