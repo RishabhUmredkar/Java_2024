@@ -3,4 +3,10 @@
 <fullyQualifiedTypeName name="java.io.PrintStream"/>
 <fullyQualifiedTypeName name="java.lang.System"/>
 <fullyQualifiedTypeName name="Encapsulation.Account"/>
+<fullyQualifiedTypeName name="Methods.ConstructorDriver"/>
+<fullyQualifiedTypeName name="Methods.ConstructorChain"/>
+<fullyQualifiedTypeName name="Encapsulation.Employee"/>
+<fullyQualifiedTypeName name="Inheritance.EarlyBind"/>
+<fullyQualifiedTypeName name="java.util.jar.Attributes.Name"/>
+<fullyQualifiedTypeName name="Inheritance.Mobile"/>
 </qualifiedTypeNameHistroy>
