@@ -9,4 +9,6 @@
 <fullyQualifiedTypeName name="Inheritance.EarlyBind"/>
 <fullyQualifiedTypeName name="java.util.jar.Attributes.Name"/>
 <fullyQualifiedTypeName name="Inheritance.Mobile"/>
+<fullyQualifiedTypeName name="Inheritance.LazyBind"/>
+<fullyQualifiedTypeName name="Inheritance.Laptop"/>
 </qualifiedTypeNameHistroy>
