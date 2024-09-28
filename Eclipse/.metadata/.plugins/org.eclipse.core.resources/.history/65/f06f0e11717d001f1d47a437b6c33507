@@ -1,0 +1,13 @@
+package Methods;
+
+public class blocks {
+
+	{
+		System.out.println("Non static block");
+	}
+	
+	
+	blocks(){
+		System.out.println("Constructor.....");
+	}
+}

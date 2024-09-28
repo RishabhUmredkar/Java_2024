@@ -1,0 +1,14 @@
+package Methods;
+
+public class Statvar {
+	static String s;
+	public static void main(String[] args) {
+		System.out.println(s);
+		s = "hello";
+		System.out.println(s);
+		s = "hello1";
+		System.out.println(s);
+		
+	}
+
+}

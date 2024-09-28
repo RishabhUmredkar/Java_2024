@@ -1,0 +1,19 @@
+package Methods;
+
+public class blocks {
+
+	static 
+	{
+		System.out.println("Static Block...");
+	}
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("main block");
+	}
+	{
+		System.out.println("Non static block");
+	}
+	public blocks{
+		System.out.println("Constructor.....");
+	}
+}

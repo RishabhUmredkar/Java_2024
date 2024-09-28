@@ -10,6 +10,9 @@ public class Account {
 	private String type;
 	private String branch;
 	
+	static {
+		System.out.println("this is static from account");
+	}
 	public Account()
 	{
 		
