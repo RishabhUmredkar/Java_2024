@@ -1,0 +1,10 @@
+package IS_A_INHERITANCE;
+
+public class AccountDriver {
+	public static void main(String[] args) {
+		SavingAccount ac = new SavingAccount("PNB", "Rishab", 41235, "punb005", "Indore", 
+				50000, "Savings", 4);
+		
+	}
+
+}

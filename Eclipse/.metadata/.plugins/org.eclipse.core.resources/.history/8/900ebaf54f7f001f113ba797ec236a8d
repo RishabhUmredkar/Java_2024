@@ -1,0 +1,9 @@
+package IS_A_INHERITANCE;
+
+public class BankAccount {
+	String name;
+	String accName;
+	long accno;
+	String ifsc;
+	String brach;
+}
