@@ -1,0 +1,22 @@
+package Hierarchical;
+
+public class GooglePay extends Upi{
+	String upiId;
+	int password;
+	double cashReward;
+	
+	public GooglePay() {
+		// TODO Auto-generated constructor stub
+	}
+	public GooglePay(String upiId, int password, double cashReward)
+	{
+		this.upiId = upiId;
+		this.password = password;
+		this.cashReward = cashReward;
+	}
+	
+	public void displayGooglePay()
+	{
+		
+	}
+}

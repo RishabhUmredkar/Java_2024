@@ -11,4 +11,8 @@
 <fullyQualifiedTypeName name="Inheritance.Mobile"/>
 <fullyQualifiedTypeName name="Inheritance.LazyBind"/>
 <fullyQualifiedTypeName name="Inheritance.Laptop"/>
+<fullyQualifiedTypeName name="IS_A_INHERITANCE.BankAccount"/>
+<fullyQualifiedTypeName name="IS_A_INHERITANCE.SavingAccount"/>
+<fullyQualifiedTypeName name="MultiLevel.SoftwareCompany"/>
+<fullyQualifiedTypeName name="MultiLevel.Employee"/>
 </qualifiedTypeNameHistroy>

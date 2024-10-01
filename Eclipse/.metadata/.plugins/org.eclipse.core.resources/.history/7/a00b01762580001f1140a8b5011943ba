@@ -1,0 +1,30 @@
+package Hierarchical;
+
+public class Upi {
+	long phno;
+	int cardNo;
+	String name;
+	String pan;
+	String balance;
+	
+	public Upi() {
+		// TODO Auto-generated constructor stub
+	}
+	public Upi(long phno, int cardNo, String name, String pan, String balance)
+	{
+		this.phno = phno;
+		this.cardNo = cardNo;
+		this.name = name;
+		this.pan = pan;
+		this.balance = balance;
+	}
+	
+	void displayUPI()
+	{
+		System.out.println("Phone No. : "+ phno);
+		System.out.println("Card No : "+cardNo);
+		System.out.println("Pan Card : "+ pan);
+		System.out.println("Balance : "+ balance);
+	}
+
+}
