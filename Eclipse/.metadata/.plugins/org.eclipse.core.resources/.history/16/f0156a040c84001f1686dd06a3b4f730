@@ -7,8 +7,8 @@ public class DoctorDriver {
 		
 		Doctor dcr = new Cardiologist("Rishabh","Multani", 120, "MBBS",5,"treatment","lungs");
 		
-		dor.displayDoctor();
-		dcr.displayDoctor();
+		dr.displayDoctor();
+		
 		
 	}
 
