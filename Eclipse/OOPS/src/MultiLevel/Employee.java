@@ -6,10 +6,11 @@ public class Employee extends TCS{
 	double sal;
 	String role;
 	int exp;
-	
 	public Employee() {
 		// TODO Auto-generated constructor stub
 	}
+	
+	
 	public Employee(String name, String type, String ceo, double turnOver,
 				String hq, int emp, int project, int loc,
 				String empName, int id, double sal, String role, int exp)

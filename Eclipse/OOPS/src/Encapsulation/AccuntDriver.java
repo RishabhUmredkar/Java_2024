@@ -6,12 +6,14 @@ public class AccuntDriver {
 		Account ac = new Account("Rishabh", "pnb", 12345, 1234, 500000, "pnb005", "Saving ", "deccan");
 		System.err.println("hello");
 		
-		System.err.println(ac.getAccno());
-		ac.setPin(12345, 1234, 789);
-		System.err.println("balance "+ac.getBalance(12345, 789));
-		ac.withdaw(12345, 789, 500000);
-		ac.deposit(12345, 789, 500000);
-		System.err.println("balance "+ac.getBalance(12345, 789));
+		System.err.println("Account no. "+ac.getAccno());
+		System.err.println("balance "+ac.getBalance(12345, 1234));
+
+//		ac.setPin(12345, 1234, 789);
+
+//		ac.withdaw(12345, 789, 500000);
+//		ac.deposit(12345, 789, 500000);
+//		System.err.println("balance "+ac.getBalance(12345, 1234));
 
 	}
 

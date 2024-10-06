@@ -15,4 +15,7 @@
 <fullyQualifiedTypeName name="IS_A_INHERITANCE.SavingAccount"/>
 <fullyQualifiedTypeName name="MultiLevel.SoftwareCompany"/>
 <fullyQualifiedTypeName name="MultiLevel.Employee"/>
+<fullyQualifiedTypeName name="Hierarchical.Upi"/>
+<fullyQualifiedTypeName name="Hierarchical.GooglePay"/>
+<fullyQualifiedTypeName name="Hierarchical.PhonePay"/>
 </qualifiedTypeNameHistroy>

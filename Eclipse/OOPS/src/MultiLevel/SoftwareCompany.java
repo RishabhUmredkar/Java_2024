@@ -9,6 +9,7 @@ public class SoftwareCompany {
 	public SoftwareCompany() {
 		// TODO Auto-generated constructor stub
 	}
+	
 	public SoftwareCompany(String name, String type, String ceo, double turnOver)
 	{
 		this.name = name;
