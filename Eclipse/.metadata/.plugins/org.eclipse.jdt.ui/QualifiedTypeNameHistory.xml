@@ -18,4 +18,8 @@
 <fullyQualifiedTypeName name="Hierarchical.Upi"/>
 <fullyQualifiedTypeName name="Hierarchical.GooglePay"/>
 <fullyQualifiedTypeName name="Hierarchical.PhonePay"/>
+<fullyQualifiedTypeName name="javax.print.Doc"/>
+<fullyQualifiedTypeName name="Upcasting.Doctor"/>
+<fullyQualifiedTypeName name="Upcasting.Orthopedic"/>
+<fullyQualifiedTypeName name="Upcasting.Cardiologist"/>
 </qualifiedTypeNameHistroy>
