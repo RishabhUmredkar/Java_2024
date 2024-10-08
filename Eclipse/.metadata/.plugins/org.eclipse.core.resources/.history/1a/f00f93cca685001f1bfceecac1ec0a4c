@@ -1,0 +1,10 @@
+package Shadowing;
+
+public class Child extends Parent{
+	
+	public void test()
+	{
+		System.out.println("Non static test from child");
+	}
+	
+}
