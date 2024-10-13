@@ -1,5 +1,0 @@
-package MultiLevel;
-
-public class Employee extends TCS{
-
-}

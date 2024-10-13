@@ -18,8 +18,15 @@
 <fullyQualifiedTypeName name="Hierarchical.Upi"/>
 <fullyQualifiedTypeName name="Hierarchical.GooglePay"/>
 <fullyQualifiedTypeName name="Hierarchical.PhonePay"/>
-<fullyQualifiedTypeName name="javax.print.Doc"/>
 <fullyQualifiedTypeName name="Upcasting.Doctor"/>
 <fullyQualifiedTypeName name="Upcasting.Orthopedic"/>
 <fullyQualifiedTypeName name="Upcasting.Cardiologist"/>
+<fullyQualifiedTypeName name="DownCasting.Cardiologist"/>
+<fullyQualifiedTypeName name="javax.print.Doc"/>
+<fullyQualifiedTypeName name="DownCasting.Doctor"/>
+<fullyQualifiedTypeName name="DownCasting.Orthopedic"/>
+<fullyQualifiedTypeName name="RunTimePolymorphism.MenuSoftware"/>
+<fullyQualifiedTypeName name="RunTimePolymorphism.MenuSoftwareV2"/>
+<fullyQualifiedTypeName name="Shadowing.Parent"/>
+<fullyQualifiedTypeName name="Shadowing.Child"/>
 </qualifiedTypeNameHistroy>
