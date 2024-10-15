@@ -9,8 +9,9 @@ public class StudentDriver {
 		System.out.println(st1.equals(st2));
 		System.out.println(st1.toString());
 		System.out.println(st1.hashCode());
-	
+		System.out.println(st1.hashCodee());
+		System.out.println(st2.hashCodee());
+		
 		System.out.println(st1.getClass().getName()+"@"+Integer.toHexString(st1.hashCode()));
-		System.out.println(st1.getClass().getName());
 	}
 }

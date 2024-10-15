@@ -19,14 +19,14 @@ public class Student {
 		this.year = year;
 	}
 	
-	public String toString()
-	{
-		return "Name = "+name+
-				" \nAge = "+age+
-				" \nCollege = "+college+
-				" \nPercent = "+percent+
-				" \nYear = "+year+"\n****************";
-	}
+//	public String toString()
+//	{
+//		return "Name = "+name+
+//				" \nAge = "+age+
+//				" \nCollege = "+college+
+//				" \nPercent = "+percent+
+//				" \nYear = "+year;
+//	}
 	
 	public boolean equals(Object obj)
 	{
@@ -39,9 +39,9 @@ public class Student {
 		return false;
 	}
 	
-	public int hashCode()
+	public int hashCodee()
 	{
-		int hc = age + year + name.hashCode() + college.hashCode();
+		int hc = age + year +college.hashCode();
 		return hc;
 	}
 
