@@ -30,13 +30,12 @@ public class Student {
 	
 	public boolean equals(Object obj)
 	{
+		System.out.println(obj);
 		Student st = (Student) obj;
-		if(this.name == st.name && this.age == st.age && this.college == st.college &&
-				this.percent == st.percent && this.year == st.year)
-		{
+		System.out.println(st);
+		System.out.println(this.name);
+		System.out.println(st.name);
 		return true;
-		}
-		return false;
 	}
 
 }

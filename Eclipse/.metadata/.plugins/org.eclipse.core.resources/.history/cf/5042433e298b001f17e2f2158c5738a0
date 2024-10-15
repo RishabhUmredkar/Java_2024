@@ -31,12 +31,7 @@ public class Student {
 	public boolean equals(Object obj)
 	{
 		Student st = (Student) obj;
-		if(this.name == st.name && this.age == st.age && this.college == st.college &&
-				this.percent == st.percent && this.year == st.year)
-		{
-		return true;
-		}
-		return false;
+		return this.name;
 	}
 
 }
