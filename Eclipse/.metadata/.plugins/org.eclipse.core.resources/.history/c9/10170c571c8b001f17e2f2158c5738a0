@@ -18,14 +18,5 @@ public class Student {
 		this.percent = percent;
 		this.year = year;
 	}
-	
-//	public String toString()
-//	{
-//		return "Name = "+name+
-//				" \nAge = "+age+
-//				" \nCollege = "+college+
-//				" \nPercent = "+percent+
-//				" \nYear = "+year;
-//	}
 
 }
