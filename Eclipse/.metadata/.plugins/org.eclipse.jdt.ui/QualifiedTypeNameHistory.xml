@@ -29,4 +29,6 @@
 <fullyQualifiedTypeName name="RunTimePolymorphism.MenuSoftwareV2"/>
 <fullyQualifiedTypeName name="Shadowing.Parent"/>
 <fullyQualifiedTypeName name="Shadowing.Child"/>
+<fullyQualifiedTypeName name="Interface.Stact"/>
+<fullyQualifiedTypeName name="Interface.StactImpls"/>
 </qualifiedTypeNameHistroy>

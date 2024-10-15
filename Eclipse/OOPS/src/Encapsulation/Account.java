@@ -97,6 +97,12 @@ public class Account {
 			System.err.println("Invalid Creadential..");
 		}
 	}
+	@Override
+	public String toString() {
+		return "Account [name=" + name + ", bank=" + bank + ", accno=" + accno + ", pin=" + pin + ", balance=" + balance
+				+ ", ifsc=" + ifsc + ", type=" + type + ", branch=" + branch + "]";
+	}
+	
 	
 
 }

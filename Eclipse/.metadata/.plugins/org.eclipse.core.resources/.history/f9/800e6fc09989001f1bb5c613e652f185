@@ -7,11 +7,14 @@ public class AccuntDriver {
 		System.err.println("hello");
 		
 		System.err.println("Account no. "+ac.getAccno());
-		//ac.setPin(12345, 1234, 789);
-		System.err.println("balance "+ac.getBalance(12345, 789));
-		ac.withdaw(12345, 789, 500000);
-		ac.deposit(12345, 789, 500000);
-		System.err.println("balance "+ac.getBalance(12345, 789));
+		System.err.println("balance "+ac.getBalance(12345, 1234));
+		ac.toString();
+
+//		ac.setPin(12345, 1234, 789);
+
+//		ac.withdaw(12345, 789, 500000);
+//		ac.deposit(12345, 789, 500000);
+//		System.err.println("balance "+ac.getBalance(12345, 1234));
 
 	}
 

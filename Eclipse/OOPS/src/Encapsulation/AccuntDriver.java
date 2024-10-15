@@ -8,6 +8,7 @@ public class AccuntDriver {
 		
 		System.err.println("Account no. "+ac.getAccno());
 		System.err.println("balance "+ac.getBalance(12345, 1234));
+		System.out.println(ac.toString());
 
 //		ac.setPin(12345, 1234, 789);
 
