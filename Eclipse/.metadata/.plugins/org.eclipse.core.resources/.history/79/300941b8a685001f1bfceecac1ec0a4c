@@ -1,7 +1,0 @@
-package Shadowing;
-
-public class ChildDriver {
-	public static void main(String[] args) {
-		Parent p1 = new Child();
-	}
-}

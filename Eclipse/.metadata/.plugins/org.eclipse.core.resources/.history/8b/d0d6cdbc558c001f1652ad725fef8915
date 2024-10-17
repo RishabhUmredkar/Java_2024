@@ -1,0 +1,11 @@
+package Interface;
+
+public class CalculatorImpls implements Calculator{
+	public CalculatorImpls() {
+		// TODO Auto-generated constructor stub
+	}
+	public abstract void areaOfCircle()
+	{
+		
+	}
+}

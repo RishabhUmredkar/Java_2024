@@ -1,8 +1,0 @@
-package RunTimePolymorphism;
-
-public class SoftwareDriver {
-	
-	MenuSoftware ms = new MenuSoftware();
-	ms.veg();
-
-}
