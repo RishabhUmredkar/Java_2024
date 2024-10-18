@@ -1,0 +1,10 @@
+package Instagram_App;
+
+public class InstaDriver {
+
+	public static void main(String[] args) {
+		Instagram i1 = new InstagramImpl("Rishabh ","rishabhumredkar0@gmail.com", 1234);
+		i1.post(msg);
+	}
+
+}

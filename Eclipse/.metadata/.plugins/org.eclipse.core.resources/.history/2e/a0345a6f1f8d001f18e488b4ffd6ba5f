@@ -1,0 +1,15 @@
+package Instagram_App;
+
+public class InstagramImpl implements Instagram{
+	String name;
+	String email;
+	int pass;
+	public InstagramImpl() {
+		// TODO Auto-generated constructor stub
+	}
+	public InstagramImpl(String name, String email, pass)
+	{
+		super();
+		this.n
+	}
+}
