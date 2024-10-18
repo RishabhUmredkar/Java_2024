@@ -1,0 +1,10 @@
+package Interface;
+
+public class JujuDriver {
+
+	public static void main(String[] args) {
+		Raju r1 = new Juju();
+		
+	}
+
+}
