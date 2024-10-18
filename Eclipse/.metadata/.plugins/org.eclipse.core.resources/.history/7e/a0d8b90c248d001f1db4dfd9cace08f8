@@ -8,7 +8,7 @@ public class InstaDriver {
 		i1.like("Papa ki pari");
 		i1.comment("Papa ki pari", "Y");
 		
-		i1.message("Rishabh", "Jevlis ka");
+		
 		Instagram.msg("Rishabh");
 	}
 

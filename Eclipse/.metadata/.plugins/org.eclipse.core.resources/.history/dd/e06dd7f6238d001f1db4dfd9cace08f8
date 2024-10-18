@@ -1,0 +1,8 @@
+package Instagram_App;
+
+public class InstagramImpl2 extends InstagramImpl{
+
+	public InstagramImpl2(String name, String email, int pass) {
+		super(name, email, pass);
+	}
+}

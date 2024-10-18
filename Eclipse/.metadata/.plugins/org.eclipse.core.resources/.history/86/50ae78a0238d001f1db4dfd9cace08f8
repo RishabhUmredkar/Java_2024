@@ -4,7 +4,7 @@ public interface Instagram {
 	void post(String msg);
 	void like(String name);
 	void comment(String name, String msg);
-	void message(String name, String msg);
+	//void message(String name, String msg);
 	
 	static void msg(String name)
 	{

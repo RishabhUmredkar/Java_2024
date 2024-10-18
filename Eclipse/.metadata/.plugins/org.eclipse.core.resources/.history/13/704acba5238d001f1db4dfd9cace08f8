@@ -1,6 +1,6 @@
 package Instagram_App;
 
-public abstract class InstagramImpl implements Instagram{
+public class InstagramImpl implements Instagram{
 	String name;
 	String email;
 	int pass;
