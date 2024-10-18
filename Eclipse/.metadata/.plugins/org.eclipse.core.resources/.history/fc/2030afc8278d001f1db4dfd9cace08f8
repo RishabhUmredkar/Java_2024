@@ -13,9 +13,4 @@ public class InstagramImpl2 extends InstagramImpl{
 		System.out.println("Message Sent ...");
 		
 	}
-	@Override
-	public void story(String msg) {
-	System.out.println(msg);
-	System.out.println("Story Uploaded");
-	}
 }

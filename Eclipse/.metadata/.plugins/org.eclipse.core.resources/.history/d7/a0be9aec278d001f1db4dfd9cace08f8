@@ -9,9 +9,6 @@ public class InstaDriver {
 		i1.comment("Papa ki pari", "Y");
 		
 		i1.message("Rishabh", "Jevlis ka");
-		
-		i1.story("Sed lyf");
-		i1.comment("jal Pari", "ka hua???");
 		Instagram.msg("Rishabh");
 	}
 

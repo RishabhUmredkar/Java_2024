@@ -5,7 +5,7 @@ public interface Instagram {
 	void like(String name);
 	void comment(String name, String msg);
 	void message(String name, String msg);
-	void story(String msg);
+	
 	static void msg(String name)
 	{
 		System.out.println("Hey ...! "+name+" Welcome To Instagram ...");
