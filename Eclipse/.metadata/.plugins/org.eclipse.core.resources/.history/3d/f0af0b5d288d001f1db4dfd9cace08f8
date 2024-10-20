@@ -1,6 +1,6 @@
 package Instagram_App;
 
-public abstract class InstagramImpl implements Instagram{
+public class InstagramImpl implements Instagram{
 	String name;
 	String email;
 	int pass;
@@ -15,11 +15,13 @@ public abstract class InstagramImpl implements Instagram{
 		this.pass = pass ;
 		System.out.println("Account created");
 	}
+	
 	@Override
 	public void post(String msg) {
 		System.out.println(msg);
 		System.out.println("Posted");
 	}
+	
 	@Override
 	public void like(String name) {
 		System.out.println(name + " Liked");
