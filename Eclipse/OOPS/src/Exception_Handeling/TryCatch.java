@@ -1,9 +1,26 @@
 package Exception_Handeling;
 
+import java.util.Scanner;
+
+import javax.crypto.AEADBadTagException;
+
 public class TryCatch {
 
 	public static void main(String[] args) {
-		System.out.println("");
+		Scanner sc = new Scanner(System.in);
+		System.out.println("Enter Numerator");
+		int num = sc.nextInt();
+		
+		System.out.println("Enter Denomerator");
+		int den = sc.nextInt();
+		
+		try{
+			int ans = num/den;
+		}
+		catch (ArithmeticException e) {
+			System.out.println("Cann't be divide by 0 "+e);
+		}
+		
 	}
 
 }
