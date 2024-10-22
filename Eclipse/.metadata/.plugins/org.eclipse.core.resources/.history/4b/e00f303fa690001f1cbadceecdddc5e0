@@ -30,9 +30,18 @@ public class TryCatch {
 				System.out.println("Cann't be divide by 0 "+e);
 		}
 		catch (InputMismatchException e) {
-			System.out.println("enter proper");
+			try{
+				sc = new Scanner(System.in);
+				System.out.println("Enter no.");
+				int n1 = sc.nextInt();
+				System.out.println("Enter no2.");
+				int n2 = sc.nextInt();
+				System.out.println(n1 + n2);
+			}
+			catch (Exception e1) {
+				System.out.println("Ther is an exception "+e1);
+			}
 		}
-//		sc = new Scanner(System.in);
 		System.out.println("hello");
 		int dnum = sc.nextInt();
 		System.out.println(dnum);

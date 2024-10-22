@@ -6,15 +6,14 @@ public class TryCatch {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-
-		try
-		{
 		System.out.println("Enter Numerator");
 		int num = sc.nextInt();
 		
 		System.out.println("Enter Denomerator");
 		int den = sc.nextInt();
 		
+		try
+		{
 			int ans = num/den;
 		}
 		catch (ArithmeticException e) 
@@ -30,9 +29,11 @@ public class TryCatch {
 				System.out.println("Cann't be divide by 0 "+e);
 		}
 		catch (InputMismatchException e) {
-			System.out.println("enter proper");
+			try{
+				sc = new Scanner(System.in);
+				
+			}
 		}
-//		sc = new Scanner(System.in);
 		System.out.println("hello");
 		int dnum = sc.nextInt();
 		System.out.println(dnum);

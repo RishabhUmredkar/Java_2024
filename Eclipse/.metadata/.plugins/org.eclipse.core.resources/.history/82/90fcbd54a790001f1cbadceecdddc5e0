@@ -32,7 +32,7 @@ public class TryCatch {
 		catch (InputMismatchException e) {
 			System.out.println("enter proper");
 		}
-//		sc = new Scanner(System.in);
+		sc = new Scanner(System.in);
 		System.out.println("hello");
 		int dnum = sc.nextInt();
 		System.out.println(dnum);
