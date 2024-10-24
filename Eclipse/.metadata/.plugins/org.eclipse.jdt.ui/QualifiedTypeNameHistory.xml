@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
 <fullyQualifiedTypeName name="java.io.PrintStream"/>
-<fullyQualifiedTypeName name="java.lang.System"/>
 <fullyQualifiedTypeName name="Encapsulation.Account"/>
 <fullyQualifiedTypeName name="Methods.ConstructorDriver"/>
 <fullyQualifiedTypeName name="Methods.ConstructorChain"/>
@@ -45,4 +44,10 @@
 <fullyQualifiedTypeName name="java.util.concurrent.SynchronousQueue"/>
 <fullyQualifiedTypeName name="Instagram_App.Instagram"/>
 <fullyQualifiedTypeName name="Instagram_App.InstagramImpl"/>
+<fullyQualifiedTypeName name="javax.crypto.AEADBadTagException"/>
+<fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
+<fullyQualifiedTypeName name="java.util.InputMismatchException"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="java.lang.Thread"/>
 </qualifiedTypeNameHistroy>
