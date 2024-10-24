@@ -1,0 +1,17 @@
+
+public class Boxing {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		
+		Integer i = new Integer(123);
+		System.out.println(i);
+		int i2 = i.intValue();
+		System.out.println(i2);
+		
+		byte b1=5;
+		Byte b = new Byte(b1);
+	}
+
+}

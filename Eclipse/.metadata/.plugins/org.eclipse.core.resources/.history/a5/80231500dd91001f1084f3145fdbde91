@@ -1,0 +1,35 @@
+
+public class Boxing {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		Boolean bl = new Boolean(true);
+		System.out.println(bl);
+		
+		byte b1 = 5;
+		Byte b = new Byte(b1);
+		System.out.println(b);
+		
+		short st = 5;
+		Short s = new Short(st);
+		System.out.println(s);
+		
+		Integer i = new Integer(123);
+		System.out.println(i);
+		
+		Long l = new Long(1234);
+		System.out.println(l);
+		
+		Float ft = new Float(123.1);
+		System.out.println(ft);
+		
+		Character ch = new Character('R');
+		System.out.println(ch);
+		
+		Double dl = new Double(41852);
+		System.out.println(dl);
+		
+	}
+
+}

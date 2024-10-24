@@ -10,7 +10,7 @@
 	<classpathentry kind="src" path="Object"/>
 	<classpathentry kind="src" path="Interface"/>
 	<classpathentry kind="src" path="Encapsulation"/>
-	<classpathentry kind="src" path="src2"/>
+	<classpathentry kind="src" path="WrapperClass"/>
 	<classpathentry kind="src" path="src3"/>
 	<classpathentry kind="src" path="src4"/>
 	<classpathentry kind="src" path="src5"/>
