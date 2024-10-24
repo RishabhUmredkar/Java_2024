@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry kind="src" path="oops"/>
+	<classpathentry kind="src" path="Methods"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="src" path="Exception"/>
 	<classpathentry kind="src" path="Inheritance"/>
@@ -9,5 +9,11 @@
 	<classpathentry kind="src" path="Abstraction"/>
 	<classpathentry kind="src" path="Object"/>
 	<classpathentry kind="src" path="Interface"/>
+	<classpathentry kind="src" path="Encapsulation"/>
+	<classpathentry kind="src" path="src2"/>
+	<classpathentry kind="src" path="src3"/>
+	<classpathentry kind="src" path="src4"/>
+	<classpathentry kind="src" path="src5"/>
+	<classpathentry kind="src" path="src6"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
