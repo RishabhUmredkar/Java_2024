@@ -7,7 +7,7 @@
 	<classpathentry kind="src" path="TypeCasting"/>
 	<classpathentry kind="src" path="Polymorphism"/>
 	<classpathentry kind="src" path="Abstraction"/>
-	<classpathentry kind="src" path="src6"/>
-	<classpathentry kind="src" path="src7"/>
+	<classpathentry kind="src" path="Object"/>
+	<classpathentry kind="src" path="Interface"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
